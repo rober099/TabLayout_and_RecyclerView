@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GmailView</string>
+    <string name="email_name">Kwik-win</string>
+    <string name="fake_time">12:15pm</string>
+    <string name="email_title">Dont Miss Out, Winner</string>
+    <string name="message"> Congrats! Claim your winnings, only li  </string>
+    <string name="front_page_header">Make A Selection</string>
+    <string name="emailBtn">Send an Email</string>
+    <string name="chatBtn">Send a Message</string>
+    <string name="hi">Hey there, Good day to you</string>
+</resources>
